@@ -3,11 +3,11 @@
 ---
 
 **Kelompok 17**
-1. Reyhan Ahnaf Deannova - 2306267100 
-2. Andhika Fadhlan Wijanarko - 2306267164 
-3. Zhafira Zahra Alfarisy - 2306250636 
-4. Muhammad Iqbal Alfajri - 2306250705 
-5. Ekananda Zhafif Dean - 2306264420 
+1. Andhika Fadhlan Wijanarko - 2306267164
+2. Ekananda Zhafif Dean - 2306264420
+3. Muhammad Iqbal Alfajri - 2306250705 
+4. Reyhan Ahnaf Deannova - 2306267100
+5. Zhafira Zahra Alfarisy - 2306250636
 
 ---
 
